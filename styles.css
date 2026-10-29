@@ -13,20 +13,45 @@ header {
    color: #ffffff;
    padding: 16px 24px;
 }
+header a{
+ color: #ffffff;
+}
 
+h1 {
+   color: #3b2418;
+}
+
+h2 {
+   color: #3b2418;
+}
+
+h3 {
+   color: #3b2418;
+}
+
+a {
+   color: #8c1010;
+}
+ 
+#hero{
+   background: #f3e3cf;
+}
 footer {
    background-color: #2b1c14;
    color: #ffffff;
    padding: 16px 24px;
+}
+footer a{
+   color: #ffffff;
 }
 
 .knapp {
    display: inline-block;
    background-color: #8c1010;
    color: #ffffff;
-   border: 1px solid #e3d5c3;
    padding: 12px 20px;
    text-decoration: none;
+   border-radius: 6px;
 }
 
 article{
