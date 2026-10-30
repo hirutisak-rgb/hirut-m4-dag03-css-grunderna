@@ -56,6 +56,9 @@ hero{
    text-decoration: none;
    border-radius: 6px;
 }
+.knap:hover{
+   background-color: #6f0c0c;
+}
 
 article{
    background-color: #ffffff;
