@@ -2,19 +2,16 @@
 *, *::before, *::after { 
    box-sizing: border-box; 
 }
-
 main {
    margin: 0 auto;
-   max-width: 1100 px;
+   max-width: 1100px;
    padding: 24px;
 }
-
 body{
    background-color: #fffaf3;
    color: #222222;
    margin: 0;
 }
-
 header {
    background-color: #5b3a29;
    color: #ffffff;
@@ -23,31 +20,15 @@ header {
 header a{
  color: #ffffff;
 }
-
-h1 {
+h1, h2, h3 {
    color: #3b2418;
 }
-
-h2 {
-   color: #3b2418;
-}
-
-h3 {
-   color: #3b2418;
-}
-
 a {
    color: #8c1010;
 }
- 
 #hero{
-   background: #f3e3cf;
-}
-
-hero{
    background-color: #f3e3cf;
 }
-
 .knapp {
    display: inline-block;
    background-color: #8c1010;
@@ -56,10 +37,9 @@ hero{
    text-decoration: none;
    border-radius: 6px;
 }
-.knap:hover{
+.knapp:hover{
    background-color: #6f0c0c;
 }
-
 article{
    background-color: #ffffff;
    border: 1px solid #e3d5c3; 
@@ -67,11 +47,9 @@ article{
    padding: 16px;
    margin-bottom: 16px;
 }
-
 footer a{
    color: #ffffff;
 }
-
 footer {
    background-color: #2b1c14;
    color: #ffffff;
