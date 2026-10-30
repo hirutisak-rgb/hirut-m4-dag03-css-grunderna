@@ -11,6 +11,7 @@ main {
 
 body{
    background-color: #fffaf3;
+   color: #222222;
    margin: 0;
 }
 
@@ -42,13 +43,9 @@ a {
 #hero{
    background: #f3e3cf;
 }
-footer {
-   background-color: #2b1c14;
-   color: #ffffff;
-   padding: 16px 24px;
-}
-footer a{
-   color: #ffffff;
+
+hero{
+   background-color: #f3e3cf;
 }
 
 .knapp {
@@ -68,3 +65,12 @@ article{
    margin-bottom: 16px;
 }
 
+footer a{
+   color: #ffffff;
+}
+
+footer {
+   background-color: #2b1c14;
+   color: #ffffff;
+   padding: 16px 24px;
+}
