@@ -12,6 +12,9 @@ body{
    color: #222222;
    margin: 0;
 }
+.pris {
+   color: #8c1010;
+}
 header {
    background-color: #5b3a29;
    color: #ffffff;
