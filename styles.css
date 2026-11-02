@@ -34,6 +34,9 @@ h1, h2, h3 {
 a {
    color: #8c1010;
 }
+header h1 {
+   color: #ffffff;
+}
 #hero{
    background-color: #f3e3cf;
 }
